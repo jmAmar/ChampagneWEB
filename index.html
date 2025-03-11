@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <!-- meta données -->
+    <meta charset="UTF-8">  <!-- acceptation des caractères accentués -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- lien avec la page style.css contenant les styles appliqués aux différents éléments (conteneurs) de la page -->
+    <link rel="stylesheet" type="text/css" href="./style.css">
+    <!-- titre de la page sur le navigateur -->
+    <title>- ChampagneWEB / Accueil -</title>
+  </head>
+
+  <body>
+
+    <!-- en-tête de page -->
+    <header>
+      <!-- insère une image interne (enregistrée en local dans le dossier data) -->
+      <img src="./data/champagne.jpg"/>
+      <h1>CHAMPAGNE</h1>
+      <!-- insère un fichier audio interne (enregistré en local dans le dossier data) -->
+      <audio controls="controls">
+        <source src="./data/Champagne - Jacques Higelin.mp3" type="audio/mpeg"/>
+      </audio>
+      <!-- saut de ligne -->
+      <br/><br/>  
+    </header>
+
+    <!-- partie centrale de la page web --> 
+    <main>
+    
+      <!-- section avec identifiant -->
+      <section id="presentation">
+        <br><br>
+        <!-- ligne de texte contenant un lien vers une aute page du site (fichier jacquesHigelin.html) -->
+        "Champagne" est une chanson écrite, composée, et interprétée par <a href="./jacquesHigelin.html"> Jacques Higelin  </a> (1940-2018).<br/>
+        <br/>
+       <!-- insère une image interne -->
+        <img src="./data/JacquesHigelin-2.jpg"/>.
+        <br><br/>
+        <!-- ligne de texte contenant un lien vers une page externe (située sur internet) -->
+        Elle est sortie en 1979 sur l'album <a href="https://www.youtube.com/playlist?list=PLN4K2BNiuZ4TwYG3k6VukNshAQoWOUsxP" target="_blank"> "Champagne pour tout le monde... et Caviar pour les autres" </a>.  <!-- l'attribut target="blank_" permet d'afficher la page dans un autre onglet du navigateur -->
+        <br/><br/>
+      </section>
+
+      <!-- section de navigation avec identifiant -->
+      <nav id="navigation">
+        <!--trait horizontal au travers de la page -->
+        <hr/>
+        <!-- liste non ordonnée -->
+        <ul>
+          <!-- éléments de la liste -->
+          <li><a href="./data/ChampagneWEB.svg" target="_blank">Cartographie</a></li>
+          <li><a href="index.html">Accueil</a></li>
+          <li><a href="paroles.html">Paroles</a></li>
+          <li><a href="jacquesHigelin.html">Jacques Higelin</a></li>
+          <li><a href="vampires.html">Vampires</a></li>
+        </ul>
+        <hr/>
+      </nav>
+    
+    </main>
+    
+    <!-- pied de page --> 
+    <footer>
+      Université Paris 1 Panthéon-Sorbonne - UFR03 Histoire de l'Art & Archéologie - 
+      Culture & Compétences Numériques - jmAmar
+    </footer>
+  
+  </body>
+  
+</html>

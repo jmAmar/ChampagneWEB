@@ -1,0 +1,74 @@
+VisualStudioCode
+
+sauvegarde automatique
+File / AutoSave
+
+settings
+- mouse wheel zoom
+- minimap
+- glyph margin
+
+editor groups
+
+extensions
+- French Language Pack for VSSCode
+- Open Browser Preview
+- Open in Browser
+- Prettier - Code Formatter
+- HTML CSS Support
+
+(- Auto Rename Tag
+ - Kite AutoCompletion
+ - Live Preview- Microsoft Edge Tools for VSCode
+ - CSS Peek
+)
+
+view / terminal
+
+keyboard shorcuts
+- alt+shift+F -> indenting
+- ctrl+] , ctrl+[
+- ctrl+shift+L -> renaming
+- ctrl+tab -> changing show nfile
+- alt+arrow -> moving code part
+- alt+shift+Arrow up/down -> copying code part
+- alt+click
+
+
+Raccourcis de base sur VS Code
+Ctrl + X : Couper une ligne
+Ctrl + C : Copier une ligne
+Alt + Haut ou Bas : Déplacer une ligne en haut ou en bas
+Shift + Alt + Haut ou Bas : Copier une ligne en haut ou en bas
+Ctrl + Shift + K : Supprimer une ligne
+Enter : Insérer une ligne en bas
+Ctrl + Shift + Enter : Insert une ligne en haut
+Ctrl + F : Rechercher
+Ctrl + H : Remplacer
+Ctrl + / : Insérer un commentaire à la ligne
+Shift + Alt + A : Insérer un bloc de commentaire
+Alt + Z : Activer retour à la ligne
+Tab : Indentation
+Shift + Tab : Indentation à l'arrière
+
+Raccourcis VS Code pour la navigation
+Ctrl + Shift + ‘ : Ouvrir un nouveau terminal
+Ctrl + Shift + M : Ouvrir le panneau de problèmes
+Ctrl + P : Aller sur un fichier
+
+Raccourcis VS Code pour la gestion des fichiers
+Ctrl + N : Nouveau fichier
+Ctrl + O : Ouvrir un fichier
+Ctrl + S : Enregistrer
+Ctrl + Shift + S : Enregistre sous...
+Ctrl + Shift +T : Ouvrir de nouveau un fichier fermé
+Ctrl + Tab : Ouvrir le fichier suivant
+Ctrl + Shift + Tab : Ouvrir le fichier précédent
+
+Raccourcis VS Code pour l'affichage
+Ctrl + : Zoom avant
+Ctrl - : Zoom arrière
+Ctrl + B : Activer/Désactiver le sidebar
+Ctrl + Shift + F : Afficher la barre de recherche
+Ctrl + Shift + X : Afficher les extensions
+Ctrl + Shift + D : Afficher l'onglet Debug

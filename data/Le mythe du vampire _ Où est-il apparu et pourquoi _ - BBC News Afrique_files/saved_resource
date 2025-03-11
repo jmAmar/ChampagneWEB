@@ -1,0 +1,43 @@
+
+var ftGUID_8125728="5901FC26F8731F";
+var ftConfID_8125728="0";
+var ftParams_8125728="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_ifb=1&ft_domain=www.bbc.com&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.bbc.com%2Fafrique%2Farticles%2Fc0jj3ed095xo&gdpr=1&gdpr_consent=CQM66kAQM66kAAGABCENBcFgAP_gAEAAAAqIIoQIQAFAAVAA4ACAAFQAMgAaQBEAEWAJgAnACEAEoAJYAewBOwCfgFIALSAXUAzIBpgDiAIMAQwAt4BeYC9wGMgMsAbqA4AB5gEDQIoAEJABAEIAWEgGAAVAA4ACCAGQAaABEACYAJYAewBPwDiALzAbqGACABMAKQAXUBe4gAGAEwApAC9xQAEBe4wACAvcdANAAqABwAEEAMgA0ACIAEwASwA9gCfgHEAXmAywBuo4ACATslAEAA4AEQAJgC8yQAEBlhSASABUADgAIIAZABoAEQAJgC8wGWAN1KAAwAFAF1AW8AAA.YAAAAAAAAAAA&us_privacy=${US_PRIVACY}&ft_partnerimpid=ABAjH0ho-DKroF7xS3s3J2epGbou&bundle_id=&site_url=https://www.bbc.com/afrique/articles/c0jj3ed095xo&pub_id=1&sup_platform=1&cachebuster=388092.4509189687";
+var ftKeyword_8125728="";
+var ftCustom_8125728="";
+var ftSection_8125728="";
+var ftSegment_8125728="akow,afr5";
+var ftSegmentList_8125728=[{s:'akow'},{s:'afr5'}];
+var ftRuleMatch_8125728="0";
+var ftTimestamp_8125728="1739726917";
+var ftGeoC2_8125728="fr";
+var ftGeoState_8125728="idf";
+var ftGeoCity_8125728="le mesnil-saint-denis";
+var ftISP_8125728="bouygues telecom s.a.";
+var ftSpeed_8125728="xdsl";
+var ftConnType_8125728="wifi";
+var ftDMA_8125728="250078";
+var ftLong_8125728="1.96";
+var ftLat_8125728="48.74";
+var ftPostal_8125728="78320";
+var ftTimeZone_8125728="+100";
+var ftMobileCarrier_8125728="";
+var ftImp8125728 = {};
+ftImp8125728.privacy = "y";
+ftImp8125728.guidAge = "355";
+ftImp8125728.impID = "AEBE939F-2365-B770-C2C1-06D44F9D2440";
+ftImp8125728.duid = "FT:5901FC26F8731F";
+
+ftImp8125728.ft_tpplid = "";
+ftImp8125728.ft_c = {};
+ftImp8125728.gdpr = "1";
+ftImp8125728.gdpr_consent = "CQM66kAQM66kAAGABCENBcFgAP_gAEAAAAqIIoQIQAFAAVAA4ACAAFQAMgAaQBEAEWAJgAnACEAEoAJYAewBOwCfgFIALSAXUAzIBpgDiAIMAQwAt4BeYC9wGMgMsAbqA4AB5gEDQIoAEJABAEIAWEgGAAVAA4ACCAGQAaABEACYAJYAewBPwDiALzAbqGACABMAKQAXUBe4gAGAEwApAC9xQAEBe4wACAvcdANAAqABwAEEAMgA0ACIAEwASwA9gCfgHEAXmAywBuo4ACATslAEAA4AEQAJgC8yQAEBlhSASABUADgAIIAZABoAEQAJgC8wGWAN1KAAwAFAF1AW8AAA.YAAAAAAAAAAA";
+ftImp8125728.gdpr_pd = "";
+ftImp8125728.oob_consent = "";
+ftImp8125728.gdprStoredConsent = "";
+ftImp8125728.us_privacy = "!!US_PRIVACY!";
+ftImp8125728.gpc = "";
+
+var ftCreativeId_8125728 = "5173608";
+document.write('<scr'+'ipt src="https://ajs-assets.ftstatic.com/ftUtils.js" id="ftscript_m8125728" name="ftscript_m8125728"></scr'+'ipt>');window.fTChecker=window.fTChecker||function(id){if(!id)return false;id=""+id;if(window.hasOwnProperty("ftUtils")){window["ft"+id]=Object.assign({},window.ftUtils.common);window["ft"+id].getBannerConfig(id)}else(function(id){window.setTimeout(function(){window.fTChecker(id)},50)})(id)};window.fTChecker("8125728");
+
+
