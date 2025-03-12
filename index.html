@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 
+  <!-- conteneur de meta-données -->
   <head>
-    <!-- meta données -->
-    <meta charset="UTF-8">  <!-- acceptation des caractères accentués -->
+    <!-- acceptation des caractères accentués -->
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- lien avec la page style.css contenant les styles appliqués aux différents éléments (conteneurs) de la page -->
     <link rel="stylesheet" type="text/css" href="./style.css">
@@ -11,14 +12,15 @@
     <title>- ChampagneWEB / Accueil -</title>
   </head>
 
+  <!-- conteneur du corps de la page -->
   <body>
 
     <!-- en-tête de page -->
     <header>
-      <!-- insère une image interne (enregistrée en local dans le dossier data) -->
-      <img src="./data/champagne.jpg"/>
+      <!-- insertion d'une image interne (enregistrée en local dans le dossier data) à l'intérieur d'un lien vers la page index.html -->
+      <a href="./index.html"><img src="./data/champagne.jpg"/></a>
       <h1>CHAMPAGNE</h1>
-      <!-- insère un fichier audio interne (enregistré en local dans le dossier data) -->
+      <!-- insertion d'un fichier audio interne (enregistré en local dans le dossier data) -->
       <audio controls="controls">
         <source src="./data/Champagne - Jacques Higelin.mp3" type="audio/mpeg"/>
       </audio>
@@ -35,17 +37,17 @@
         <!-- ligne de texte contenant un lien vers une aute page du site (fichier jacquesHigelin.html) -->
         "Champagne" est une chanson écrite, composée, et interprétée par <a href="./jacquesHigelin.html"> Jacques Higelin  </a> (1940-2018).<br/>
         <br/>
-       <!-- insère une image interne -->
+       <!-- insertion d'une image interne -->
         <img src="./data/JacquesHigelin-2.jpg"/>.
         <br><br/>
         <!-- ligne de texte contenant un lien vers une page externe (située sur internet) -->
-        Elle est sortie en 1979 sur l'album <a href="https://www.youtube.com/playlist?list=PLN4K2BNiuZ4TwYG3k6VukNshAQoWOUsxP" target="_blank"> "Champagne pour tout le monde... et Caviar pour les autres" </a>.  <!-- l'attribut target="blank_" permet d'afficher la page dans un autre onglet du navigateur -->
+        Elle est sortie en 1979 sur l'album <a href="https://www.youtube.com/playlist?list=PLN4K2BNiuZ4TwYG3k6VukNshAQoWOUsxP" target="_blank"> "Champagne pour tout le monde... et Caviar pour les autres" </a>.  <!-- l'attribut 'target="blank_"' permet d'afficher la page dans un autre onglet du navigateur -->
         <br/><br/>
       </section>
 
       <!-- section de navigation avec identifiant -->
       <nav id="navigation">
-        <!--trait horizontal au travers de la page -->
+        <!-- trait horizontal en travers de la page -->
         <hr/>
         <!-- liste non ordonnée -->
         <ul>

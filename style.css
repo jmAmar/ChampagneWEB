@@ -49,14 +49,14 @@ p {
 /* images */
 
 img.JH {
-  width: auto;
-  height: 200px;
-  margin: 5px;
+  height: 200px;  /* dimensionnement vertical des images */
+  width: auto;  /* auto-dimensionnement horizontal des images en fonction de leur dimension verticale */
+  margin: 5px;  /* largeur d'espacement des images */
 }
 
 section#galerie>img	{
-  width: auto;
-  height: 400px;
+  height: 400px;  /* dimensionnement de la hauteur des images */
+  width: auto;  /* auto-ajustement de la largeur des images en fonction de leur hauteur */
 }
 
 /* tableau */
